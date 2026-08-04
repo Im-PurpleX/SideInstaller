@@ -30,6 +30,7 @@
 > Do not install SideInstaller from any other site, AltStore source, Telegram channel, Discord server,
 > app repo, or mirror, no matter how official it looks. Redistributing my builds without explicit consent is also prohibited by
 > the [license](LICENSE.md).
+> This is a unofficial fork by PurpleX that has broken iOS 26 support
 
 ---
 
